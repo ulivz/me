@@ -10,11 +10,25 @@ Welcome to the world of ULIVZ, here is the overriew:
 
 ## Overview
 
+### Overview
+
+| Property name | value |
+|---------------|-------|
+| Birth         | 14th, August |
+| Languages     | JavaScript, Shell, C, Java |
+| Platforms     | [Linux](https://github.com/torvalds/linux)/[Mac](https://www.apple.com)/Windows |
+| Email         | [chl814@foxmail.com](mailto://chl814@foxmail.com) |
+| Github        | [@ulivz](https://github.com/ulivz) |
+| Twitter       | [@_ulivz](https://twitter.com/_ulivz) |
+| NPM           | [yorkie](https://www.npmjs.org/~yorkie) |
+
 ### Collaborator
 
 | Project | Description |
 |--------------|-------------|
 | [vuejs/vuepress](https://github.com/vuejs/vuepress) | Vuepress collaborator  |
+
+<br>
 
 ## Personal project
 
