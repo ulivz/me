@@ -13,8 +13,9 @@ Welcome to the ULIVZ's world, here you could get following informations:
 | Property name | value |
 |---------------|-------|
 | Birth         | 14th, August |
-| Languages     | JavaScript, Shell, C, Java |
-| Platforms     | [Linux](https://github.com/torvalds/linux)/[Mac](https://www.apple.com)/Windows |
+| Major         | JavaScript, Node,js, AOT |
+| Sideline      | Shell, Java, C/C++, Docker etc. |
+| Platforms     | [Mac](https://www.apple.com) |
 | Email         | [chl814@foxmail.com](mailto://chl814@foxmail.com) |
 | Github        | [@ulivz](https://github.com/ulivz) |
 | Twitter       | [@_ulivz](https://twitter.com/_ulivz) |
