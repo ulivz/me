@@ -13,7 +13,7 @@ Welcome to the ULIVZ's world, here you could get following informations:
 | Property name | value |
 |---------------|-------|
 | Birth         | 14th, August |
-| Major         | JavaScript, Node,js, AOT |
+| Major         | JavaScript, Node,js, AOT. |
 | Sideline      | Shell, Java, C/C++, Docker etc. |
 | Platforms     | [Mac](https://www.apple.com) |
 | Email         | [chl814@foxmail.com](mailto://chl814@foxmail.com) |
@@ -25,7 +25,7 @@ Welcome to the ULIVZ's world, here you could get following informations:
 
 | Project | Description |
 |--------------|-------------|
-| [vuejs/vuepress](https://github.com/vuejs/vuepress) | Vuepress collaborator  |
+| [vuejs/vuepress](https://github.com/vuejs/vuepress) | Vuepress's collaborator  |
 
 <br>
 
@@ -102,6 +102,11 @@ Welcome to the ULIVZ's world, here you could get following informations:
 
 | Repository | Description | Commits |
 |------------|-------------|---------|
-[marko-js/marko](https://github.com/marko-js/marko) | A friendly (and fast!) UI library from eBay that makes building web apps fun | [commits](https://github.com/marko-js/marko/commits?author=ulivz)
+[marko-js/marko](https://github.com/marko-js/marko) | A friendly UI library from **eBay** that makes building web apps fun | [commits](https://github.com/marko-js/marko/commits?author=ulivz)
 [nefe/You-Dont-Need-jQuery](https://github.com/marko-js/marko) | You don't need jQuery | [commits](https://github.com/nefe/You-Dont-Need-jQuery/commits?author=ulivz)
 [ruanyf/es6tutorial](https://github.com/ruanyf/es6tutorial)  | ECMAScript 6 Tutorial | [commits](https://github.com/ruanyf/es6tutorial/commits/gh-pages?author=ulivz)
+
+
+<br>
+
+Copyright 2016-preset © ULIVZ
