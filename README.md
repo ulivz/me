@@ -2,14 +2,12 @@
 
 Welcome to the world of ULIVZ, here is the overriew:
 
-- My [Personal project](#personal-project)
+- My [Personal project](#personal-project).
 - My [Contributions](#contributions) to Open Source Projects.
 
 <br>
 
 ## Overview
-
-### Overview
 
 | Property name | value |
 |---------------|-------|
@@ -65,13 +63,15 @@ Welcome to the world of ULIVZ, here is the overriew:
 
 - **Miscellaneous**
 
+| Repository | Description | 
+|------------|-------------|
 [program-language-detector](https://github.com/ulivz/program-language-detector) | A cross-platform lightweight programming language detector.
 
 <br>
 
 ## Contributions
 
-### Vue.js Ecosystem
+- **Vue.js Ecosystem**
 
 | Repository | Description | Commits |
 |------------|-------------|---------|
@@ -81,7 +81,7 @@ Welcome to the world of ULIVZ, here is the overriew:
 [vuejs-templates/webpack-simple](https://github.com/vuejs-templates/webpack-simple) | A simple Webpack + vue-loader setup for quick prototyping. | [commits](https://github.com/vuejs-templates/webpack-simple/commits?author=ulivz)
 [vue-test-utils-jest-example](https://github.com/vuejs/vue-test-utils-jest-example) | Example project using Jest + vue-test-utils together | [commits](https://github.com/vuejs/vue-test-utils-jest-example/commits/master?author=ulivz)
 
-### EGOIST's Ecosystem
+- **EGOIST's Ecosystem**
 
 | Repository | Description | Commits |
 |------------|-------------|---------|
@@ -90,13 +90,13 @@ Welcome to the world of ULIVZ, here is the overriew:
 [template-nm](https://github.com/egoist/template-nm) | Scaffold out a node module | [commits](https://github.com/egoist/template-nm/commits?author=ulivz)
 [egojump/egojump.com](https://github.com/egojump/egojump.com) | landing page for egojump.com | [commits](https://github.com/egojump/egojump.com/commits?author=ulivz)
 
-### Node.js 
+- **Node.js** 
 
 | Repository | Description | Commits |
 |------------|-------------|---------|
 [sindresorhus/gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin) | Minify PNG, JPEG, GIF and SVG images | [commits](https://github.com/sindresorhus/gulp-imagemin/commits?author=ulivz)
 
-### Miscellaneous
+- **Miscellaneous**
 
 | Repository | Description | Commits |
 |------------|-------------|---------|
