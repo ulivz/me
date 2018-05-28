@@ -13,9 +13,9 @@ Welcome to the ULIVZ's world, here you could get following informations:
 | Property name | value |
 |---------------|-------|
 | Birth         | 14th, August |
-| Major         | JavaScript, Node,js, AOT. |
+| Major         | JavaScript, CSS & Visualization, Node,js, AOT. |
 | Sideline      | Shell, Java, C/C++, Docker etc. |
-| Platforms     | [Mac](https://www.apple.com) |
+| Platforms     | Mac, Linux |
 | Email         | [chl814@foxmail.com](mailto://chl814@foxmail.com) |
 | Github        | [@ulivz](https://github.com/ulivz) |
 | Twitter       | [@_ulivz](https://twitter.com/_ulivz) |
@@ -107,6 +107,4 @@ Welcome to the ULIVZ's world, here you could get following informations:
 [ruanyf/es6tutorial](https://github.com/ruanyf/es6tutorial)  | ECMAScript 6 Tutorial | [commits](https://github.com/ruanyf/es6tutorial/commits/gh-pages?author=ulivz)
 
 
-<br>
-
-Copyright 2016-preset © ULIVZ
+<br><br><br>
