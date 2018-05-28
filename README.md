@@ -19,6 +19,7 @@ Welcome to the ULIVZ's world, here you could get following informations:
 | Email         | [chl814@foxmail.com](mailto://chl814@foxmail.com) |
 | Github        | [@ulivz](https://github.com/ulivz) |
 | Twitter       | [@_ulivz](https://twitter.com/_ulivz) |
+| Zhihu         | [@ulivz](https://www.zhihu.com/people/chen-hao-li-3/activities) |
 | NPM           | [ulivz](https://www.npmjs.com/~ulivz) |
 
 ### Collaborator
