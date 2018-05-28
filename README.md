@@ -1,8 +1,9 @@
 # ULIVZ
 
-Welcome to the world of ULIVZ, here is the overriew:
+Welcome to the ULIVZ's world, here you could get following informations:
 
-- My [Personal project](#personal-project).
+- My [Overview](#overview).
+- My [Side projects](#side-projects).
 - My [Contributions](#contributions) to Open Source Projects.
 
 <br>
@@ -27,7 +28,7 @@ Welcome to the world of ULIVZ, here is the overriew:
 
 <br>
 
-## Personal project
+## Side projects
 
 - **Frontend** 
 
