@@ -13,7 +13,7 @@ Welcome to the ULIVZ's world, here you could get following informations:
 | Property name | value |
 |---------------|-------|
 | Birth         | 14th, August |
-| Major         | JavaScript, CSS & Visualization, Node,js, AOT. |
+| Major         | JavaScript, CSS & Visualization, Node.js, AOT. |
 | Sideline      | Shell, Java, C/C++, Docker etc. |
 | Platforms     | Mac, Linux |
 | Email         | [chl814@foxmail.com](mailto://chl814@foxmail.com) |
