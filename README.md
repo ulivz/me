@@ -2,9 +2,8 @@
 
 Welcome to the world of ULIVZ, here is the overriew:
 
-
 - My [Personal project](#personal-project)
-- My [Contributions](#personal-project) to Open Source Projects.
+- My [Contributions](#contributions) to Open Source Projects.
 
 <br>
 
@@ -20,7 +19,7 @@ Welcome to the world of ULIVZ, here is the overriew:
 | Email         | [chl814@foxmail.com](mailto://chl814@foxmail.com) |
 | Github        | [@ulivz](https://github.com/ulivz) |
 | Twitter       | [@_ulivz](https://twitter.com/_ulivz) |
-| NPM           | [yorkie](https://www.npmjs.org/~yorkie) |
+| NPM           | [ulivz](https://www.npmjs.com/~ulivz) |
 
 ### Collaborator
 
