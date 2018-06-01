@@ -32,15 +32,6 @@ Welcome to the ULIVZ's world, here you could get following informations:
 
 ## Side projects
 
-- **Frontend** 
-
-| Repository | Description | 
-|------------|-------------|
-[dmo](https://github.com/ulivz/dmo) | Browser REPL generator
-[vue-codemirror-component](https://github.com/ulivz/vue-codemirror-component) A @vuejs component for @codemirror that natively supports code splitting
-[jquery-scrollable-overlay](https://github.com/ulivz/jquery-scrollable-overlay) | A jQuery plugin for your overlay that body does not follow your overlay scroll. 
-[jquery-swiper](https://github.com/ulivz/jquery-swiper) | A tiny [swiper](http://www.v2js.com/jquery-swiper).
-
 - **Node.js**
 
 | Repository | Description | 
@@ -55,6 +46,16 @@ Welcome to the ULIVZ's world, here you could get following informations:
 | Repository | Description | 
 |------------|-------------|
 [parse7](https://github.com/ulivz/parse7) | A cross-platform lightweight, efficient HTML parser.
+
+- **Frontend** 
+
+| Repository | Description | 
+|------------|-------------|
+[dmo](https://github.com/ulivz/dmo) | Browser REPL generator
+[vue-codemirror-component](https://github.com/ulivz/vue-codemirror-component) | A @vuejs component for @codemirror that natively supports code splitting
+[jquery-scrollable-overlay](https://github.com/ulivz/jquery-scrollable-overlay) | A jQuery plugin for your overlay that body does not follow your overlay scroll. 
+[jquery-swiper](https://github.com/ulivz/jquery-swiper) | A tiny [swiper](http://www.v2js.com/jquery-swiper).
+
 
 - **Bolierplates**
 
