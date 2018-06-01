@@ -81,6 +81,7 @@ Welcome to the ULIVZ's world, here you could get following informations:
 |------------|-------------|---------|
 [vuepress](https://github.com/vuejs/vuepress) | 📝 Minimalistic Vue-powered static site generator | [commits](https://github.com/vuejs/vuepress/commits/master?author=ulivz)
 [vue](https://github.com/vuejs/vue/)| 🖖 Vue's repository | [commits](https://github.com/vuejs/vue/commits/dev?author=ulivz)
+[vue-loader](https://github.com/vuejs/vue-loader)| 📦 Webpack loader for Vue.js components | [commits](https://github.com/vuejs/vue-loader/commits?author=ulivz)
 [vuex](https://github.com/vuejs/vuex) | 🗃️ Centralized State Management for Vue.js. | [commits](https://github.com/vuejs/vuex/commits/dev?author=ulivz)
 [vuejs-templates/webpack-simple](https://github.com/vuejs-templates/webpack-simple) | A simple Webpack + vue-loader setup for quick prototyping. | [commits](https://github.com/vuejs-templates/webpack-simple/commits?author=ulivz)
 [vue-test-utils-jest-example](https://github.com/vuejs/vue-test-utils-jest-example) | Example project using Jest + vue-test-utils together | [commits](https://github.com/vuejs/vue-test-utils-jest-example/commits/master?author=ulivz)
@@ -104,6 +105,7 @@ Welcome to the ULIVZ's world, here you could get following informations:
 
 | Repository | Description | Commits |
 |------------|-------------|---------|
+[ry/deno](https://github.com/ry/deno) | A secure TypeScript runtime on V8 | [commits](https://github.com/ry/deno/commits?author=ulivz)
 [marko-js/marko](https://github.com/marko-js/marko) | A friendly UI library from **eBay** that makes building web apps fun | [commits](https://github.com/marko-js/marko/commits?author=ulivz)
 [nefe/You-Dont-Need-jQuery](https://github.com/marko-js/marko) | You don't need jQuery | [commits](https://github.com/nefe/You-Dont-Need-jQuery/commits?author=ulivz)
 [ruanyf/es6tutorial](https://github.com/ruanyf/es6tutorial)  | ECMAScript 6 Tutorial | [commits](https://github.com/ruanyf/es6tutorial/commits/gh-pages?author=ulivz)
