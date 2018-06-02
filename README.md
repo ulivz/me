@@ -22,11 +22,11 @@ Welcome to the ULIVZ's world, here you could get following informations:
 | Zhihu         | [@ulivz](https://www.zhihu.com/people/chen-hao-li-3/activities) |
 | NPM           | [ulivz](https://www.npmjs.com/~ulivz) |
 
-### Collaborator
+### Members on Organizations
 
 | Project | Description |
 |--------------|-------------|
-| [vuejs/vuepress](https://github.com/vuejs/vuepress) | Vuepress's collaborator  |
+| [vuejs](https://github.com/vuejs) | vuejs's team member  |
 
 <br>
 
