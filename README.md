@@ -86,6 +86,7 @@ Welcome to the ULIVZ's world, here you could get following informations:
 [vuex](https://github.com/vuejs/vuex) | 🗃️ Centralized State Management for Vue.js. | [commits](https://github.com/vuejs/vuex/commits/dev?author=ulivz)
 [vuejs-templates/webpack-simple](https://github.com/vuejs-templates/webpack-simple) | A simple Webpack + vue-loader setup for quick prototyping. | [commits](https://github.com/vuejs-templates/webpack-simple/commits?author=ulivz)
 [vue-test-utils-jest-example](https://github.com/vuejs/vue-test-utils-jest-example) | Example project using Jest + vue-test-utils together | [commits](https://github.com/vuejs/vue-test-utils-jest-example/commits/master?author=ulivz)
+[vue-cli](https://github.com/vuejs/vue-cli/commits?author=ulivz) | 🛠️ CLI for rapid Vue.js development | [commit](https://github.com/vuejs/vue-cli/commits?author=ulivz)
 
 - **EGOIST's Ecosystem**
 
