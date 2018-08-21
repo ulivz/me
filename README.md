@@ -51,6 +51,7 @@ Welcome to the ULIVZ's world, here you could get following informations:
 
 | Repository | Description | 
 |------------|-------------|
+[vue-foldable](https://github.com/ulivz/vue-foldable) | 🌗 Highly customizable foldable component for Vue.js 
 [dmo](https://github.com/ulivz/dmo) | Browser REPL generator
 [vue-codemirror-component](https://github.com/ulivz/vue-codemirror-component) | A @vuejs component for @codemirror that natively supports code splitting
 [jquery-scrollable-overlay](https://github.com/ulivz/jquery-scrollable-overlay) | A jQuery plugin for your overlay that body does not follow your overlay scroll. 
@@ -71,6 +72,7 @@ Welcome to the ULIVZ's world, here you could get following informations:
 | Repository | Description | 
 |------------|-------------|
 [program-language-detector](https://github.com/ulivz/program-language-detector) | A cross-platform lightweight programming language detector.
+[fe](https://github.com/ulivz/fe) | A website for Front-end developer (WIP).
 
 <br>
 
@@ -97,6 +99,7 @@ Welcome to the ULIVZ's world, here you could get following informations:
 [bili](https://github.com/egoist/bili) | 🥂 A zero-config library bundler. | [commits](https://github.com/egoist/bili/commits?author=ulivz)
 [template-nm](https://github.com/egoist/template-nm) | Scaffold out a node module | [commits](https://github.com/egoist/template-nm/commits?author=ulivz)
 [egojump/egojump.com](https://github.com/egojump/egojump.com) | landing page for egojump.com | [commits](https://github.com/egojump/egojump.com/commits?author=ulivz)
+[uchudenpa/peco.upa.sh](https://github.com/uchudenpa/peco.upa.sh) | Docs for Peco (beta) | [commits](https://github.com/uchudenpa/peco.upa.sh/commits?author=ulivz)
 
 - **Node.js** 
 
